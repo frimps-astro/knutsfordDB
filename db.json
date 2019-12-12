@@ -4,19 +4,22 @@
             "id":1,
             "password":"astro",
             "name":"Clement Osei Frimpong",
-            "email":"astro@gmail.com"
+            "email":"astro@gmail.com",
+            "type": "student"
         },
         {
             "id":1,
             "password":"osei",
             "name":"Kwadwo Delasi",
-            "email":"osei@gmail.com"
+            "email":"osei@gmail.com",
+            "type": "student"
         },
         {
             "id":1,
             "password":"frimps",
             "name":"Kaakyire Frimpong",
-            "email":"frimps@gmail.com"
+            "email":"frimps@gmail.com",
+            "type": "lecturer"
         }
     ]
 }
