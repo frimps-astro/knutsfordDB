@@ -8,18 +8,76 @@
             "type": "student"
         },
         {
-            "id":1,
+            "id":2,
             "password":"osei",
             "name":"Kwadwo Delasi",
             "email":"osei@gmail.com",
             "type": "student"
         },
         {
-            "id":1,
+            "id":3,
             "password":"frimps",
             "name":"Kaakyire Frimpong",
             "email":"frimps@gmail.com",
             "type": "lecturer"
+        },
+        {
+            "id":4,
+            "password":"james",
+            "name":"James Bond",
+            "email":"james@gmail.com",
+            "type": "lecturer"
+        }
+    ],
+
+    "courses":[
+        {
+            "id":1,
+            "name":"Programming with C++",
+            "code":"CSM 158",
+            "credit":3,
+            "lecturer":4
+        },
+        {
+            "id":2,
+            "name":"Introduction to Java",
+            "code":"CSM 191",
+            "credit":2,
+            "lecturer":3
+        },
+        {
+            "id":3,
+            "name":"Pure Mathematics",
+            "code":"CSM 162",
+            "credit":3,
+            "lecturer":4
+        }
+    ],
+
+    "assignments":[
+        {
+            "id":1,
+            "name":"Assignment 1",
+            "course":1,
+            "size":"0.45MB",
+            "type":"pdf",
+            "deadline":"20/12/2019"
+        },
+        {
+            "id":2,
+            "name":"Assignment 1",
+            "course":2,
+            "size":"0.79MB",
+            "type":"powerpoint",
+            "deadline":"20/12/2019"
+        },
+        {
+            "id":3,
+            "name":"Assignment 1",
+            "course":2,
+            "size":"2.13MB",
+            "type":"docx",
+            "deadline":"20/12/2019"
         }
     ]
 }
