@@ -34,28 +34,28 @@
             "name": "Programming with C++",
             "code": "CSM 158",
             "credit": 3,
-            "lecturer": 4
+            "lec_id": 4
         },
         {
             "id": 2,
             "name": "Introduction to Java",
             "code": "CSM 191",
             "credit": 2,
-            "lecturer": 3
+            "lec_id": 3
         },
         {
             "id": 3,
             "name": "Pure Mathematics",
             "code": "CSM 162",
             "credit": 3,
-            "lecturer": 4
+            "lec_id": 3
         },
         {
             "id": 4,
             "name": "System Analyses",
             "code": "CSM 250",
             "credit": 3,
-            "lecturer": 4
+            "lec_id": 4
         }
     ],
 
