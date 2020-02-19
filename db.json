@@ -49,6 +49,13 @@
             "code": "CSM 162",
             "credit": 3,
             "lecturer": 4
+        },
+        {
+            "id": 4,
+            "name": "System Analyses",
+            "code": "CSM 250",
+            "credit": 3,
+            "lecturer": 4
         }
     ],
 
@@ -62,7 +69,7 @@
         },
         {
             "id": 2,
-            "title": "Assignment 1",
+            "title": "Assignment 2",
             "course_id": 2,
             "size": "0.79MB",
             "type": "powerpoint",
@@ -70,9 +77,17 @@
         },
         {
             "id": 3,
-            "title": "Assignment 1",
+            "title": "Assignment 3",
             "course_id": 2,
-            "size": "2.13MB",
+            "size": "4.32MB",
+            "type": "docx",
+            "deadline": "20/12/2019"
+        },
+        {
+            "id": 4,
+            "title": "Assignment 4",
+            "course_id": 2,
+            "size": "0.55MB",
             "type": "docx",
             "deadline": "20/12/2019"
         }
