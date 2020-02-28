@@ -4,6 +4,8 @@
             "password": "astro",
             "name": "Clement Osei Frimpong",
             "email": "astro@gmail.com",
+            "number": "0202939448",
+            "title": "Mr.",
             "type": "student"
         },
         {
@@ -11,6 +13,8 @@
             "password": "osei",
             "name": "Kwadwo Delasi",
             "email": "osei@gmail.com",
+            "number": "057845630",
+            "title": "Mr.",
             "type": "student"
         },
         {
@@ -18,6 +22,8 @@
             "password": "frimps",
             "name": "Kaakyire Frimpong",
             "email": "frimps@gmail.com",
+            "number": "0501437655",
+            "title": "Dr.",
             "type": "lecturer"
         },
         {
@@ -25,6 +31,8 @@
             "password": "james",
             "name": "James Bond",
             "email": "james@gmail.com",
+            "number": "0555703959",
+            "title": "Dr. Prof.",
             "type": "lecturer"
         }
     ],
