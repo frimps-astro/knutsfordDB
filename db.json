@@ -73,7 +73,7 @@
             "course_id": 1,
             "size": "0.45MB",
             "type": "pdf",
-            "deadline": "2020/1/20"
+            "deadline": "2020/11/20"
         },
         {
             "id": 2,
@@ -89,7 +89,7 @@
             "course_id": 3,
             "size": "4.32MB",
             "type": "docx",
-            "deadline": "2019/9/24"
+            "deadline": "2019/09/24"
         },
         {
             "id": 3,
