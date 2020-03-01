@@ -97,11 +97,19 @@
             "course_id": 3,
             "size": "4.32MB",
             "type": "docx",
-            "deadline": "2020/02/10"
+            "deadline": "2020/05/22"
         },
         {
             "id": 4,
             "title": "Assignment 4",
+            "course_id": 1,
+            "size": "4.32MB",
+            "type": "docx",
+            "deadline": "2020/02/10"
+        },
+        {
+            "id": 5,
+            "title": "Assignment 5",
             "course_id": 2,
             "size": "0.55MB",
             "type": "docx",
