@@ -93,7 +93,7 @@
         },
         {
             "id": 3,
-            "title": "Assignment 3",
+            "title": "Assignment 10",
             "course_id": 3,
             "size": "4.32MB",
             "type": "docx",
@@ -106,6 +106,14 @@
             "size": "4.32MB",
             "type": "docx",
             "deadline": "2020/02/10"
+        },
+        {
+            "id": 6,
+            "title": "General Assignment",
+            "course_id": 1,
+            "size": "4MB",
+            "type": "docx",
+            "deadline": "2019/12/04"
         },
         {
             "id": 5,
