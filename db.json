@@ -123,5 +123,62 @@
             "type": "docx",
             "deadline": "2019/12/05"
         }
+    ],
+    "assign_up": [{
+            "id": 1,
+            "title": "Assignment 1 ",
+            "course_id": 1,
+            "size": "0.45MB",
+            "type": "pdf",
+            "submitted": "2020/03/02"
+        },
+        {
+            "id": 2,
+            "title": "Assignment 2",
+            "course_id": 2,
+            "size": "0.79MB",
+            "type": "powerpoint",
+            "submitted": "2020/03/03"
+        },
+        {
+            "id": 3,
+            "title": "Assignment 3",
+            "course_id": 3,
+            "size": "4.32MB",
+            "type": "docx",
+            "submitted": "2019/09/24"
+        },
+        {
+            "id": 3,
+            "title": "Assignment 10",
+            "course_id": 3,
+            "size": "4.32MB",
+            "type": "docx",
+            "deadline": "2020/05/22"
+        },
+        {
+            "id": 4,
+            "title": "Assignment 4",
+            "course_id": 1,
+            "size": "4.32MB",
+            "type": "docx",
+            "submitted": "2020/02/10"
+        },
+        {
+            "id": 6,
+            "title": "General Assignment",
+            "course_id": 1,
+            "size": "4MB",
+            "type": "docx",
+            "submitted": "2019/12/04"
+        },
+        {
+            "id": 5,
+            "title": "Assignment 5",
+            "course_id": 2,
+            "size": "0.55MB",
+            "type": "docx",
+            "submitted": "2019/12/05"
+        }
     ]
 }
