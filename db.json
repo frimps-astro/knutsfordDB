@@ -211,7 +211,7 @@
             "submitted": "2019/09/20"
         }
     ],
-    "course_docs": [{
+    "documents": [{
             "id": 1,
             "title": "Lecture Notes 1 ",
             "course_id": 1,
