@@ -129,8 +129,8 @@
             "title": "Assignment 1 ",
             "course_id": 1,
             "size": "0.45MB",
-            "type": "pdf",
-            "submitted": "2020/03/02"
+            "deadline": "2019/09/1",
+            "submitted": "2019/08/28"
         },
         {
             "id": 2,
@@ -138,7 +138,8 @@
             "course_id": 2,
             "size": "0.79MB",
             "type": "powerpoint",
-            "submitted": "2020/03/03"
+            "deadline": "2019/09/24",
+            "submitted": "2019/09/20"
         },
         {
             "id": 3,
@@ -146,7 +147,8 @@
             "course_id": 3,
             "size": "4.32MB",
             "type": "docx",
-            "submitted": "2019/09/24"
+            "deadline": "2020/01/24",
+            "submitted": "2020/01/20"
         },
         {
             "id": 10,
@@ -154,7 +156,8 @@
             "course_id": 2,
             "size": "4.32MB",
             "type": "docx",
-            "submitted": "2019/09/24"
+            "deadline": "2019/09/24",
+            "submitted": "2019/09/20"
         },
         {
             "id": 3,
@@ -162,7 +165,8 @@
             "course_id": 3,
             "size": "4.32MB",
             "type": "docx",
-            "submitted": "2020/05/22"
+            "deadline": "2020/02/02",
+            "submitted": "2019/02/03"
         },
         {
             "id": 4,
@@ -170,7 +174,8 @@
             "course_id": 1,
             "size": "4.32MB",
             "type": "docx",
-            "submitted": "2020/02/10"
+            "deadline": "2019/09/24",
+            "submitted": "2019/09/25"
         },
         {
             "id": 6,
@@ -178,7 +183,8 @@
             "course_id": 1,
             "size": "4MB",
             "type": "docx",
-            "submitted": "2019/12/04"
+            "deadline": "2019/09/24",
+            "submitted": "2019/09/24"
         },
         {
             "id": 5,
@@ -186,7 +192,8 @@
             "course_id": 2,
             "size": "0.55MB",
             "type": "docx",
-            "submitted": "2019/12/05"
+            "deadline": "2019/09/24",
+            "submitted": "2019/09/20"
         }
     ]
 }
