@@ -2,7 +2,7 @@
     "users": [{
             "id": 1,
             "password": "astro",
-            "name": "Clement Osei Frimpong",
+            "name": "Clement",
             "email": "astro@gmail.com",
             "number": "0202939448",
             "title": "Mr.",
